@@ -1,0 +1,108 @@
+date,category,label,amount
+2025-01-01,Rent,Student studio rent,648.00
+2025-01-01,Internet,Fiber plan,24.50
+2025-01-01,Mobile,Phone plan,19.90
+2025-01-03,Transport,Monthly transport pass,29.50
+2025-01-05,Groceries,Carrefour,48.20
+2025-01-08,Groceries,Lidl,33.40
+2025-01-10,Eating Out,Campus cafeteria,8.60
+2025-01-12,Coffee & Snacks,Café latte,3.20
+2025-01-15,Subscriptions,Streaming bundle,12.99
+2025-01-18,Entertainment,Cinema ticket,9.90
+2025-01-22,Transport,Single ticket,2.10
+2025-01-25,Eating Out,Kebab,9.80
+2025-02-01,Rent,Student studio rent,651.00
+2025-02-01,Internet,Fiber plan,25.00
+2025-02-01,Mobile,Phone plan,20.00
+2025-02-03,Transport,Monthly transport pass,30.00
+2025-02-05,Groceries,Intermarché,44.10
+2025-02-08,Groceries,Carrefour,51.50
+2025-02-11,Eating Out,Sandwich shop,7.90
+2025-02-14,Coffee & Snacks,Croissant,2.20
+2025-02-15,Subscriptions,Streaming bundle,12.99
+2025-02-20,Entertainment,Indie game,11.50
+2025-02-24,Transport,Vélib' day pass,5.00
+2025-03-01,Rent,Student studio rent,650.00
+2025-03-01,Internet,Fiber plan,24.90
+2025-03-01,Mobile,Phone plan,20.00
+2025-03-03,Transport,Monthly transport pass,30.00
+2025-03-05,Groceries,Lidl,32.80
+2025-03-08,Groceries,Carrefour,52.30
+2025-03-12,Eating Out,Pizza slice,6.50
+2025-03-15,Subscriptions,Streaming bundle,12.99
+2025-03-18,Entertainment,Student concert,14.00
+2025-03-22,Coffee & Snacks,Espresso,2.10
+2025-03-27,Transport,Uber share,8.90
+2025-04-01,Rent,Student studio rent,652.00
+2025-04-01,Internet,Fiber plan,25.20
+2025-04-01,Mobile,Phone plan,20.10
+2025-04-03,Transport,Monthly transport pass,30.00
+2025-04-06,Groceries,Carrefour,49.60
+2025-04-09,Groceries,Intermarché,36.40
+2025-04-12,Travel,Train to home,48.00
+2025-04-15,Subscriptions,Streaming bundle,12.99
+2025-04-18,Health,General practitioner,25.00
+2025-04-21,Eating Out,Boulangerie,5.40
+2025-04-24,Coffee & Snacks,Bubble tea,4.20
+2025-05-01,Rent,Student studio rent,651.50
+2025-05-01,Internet,Fiber plan,25.00
+2025-05-01,Mobile,Phone plan,19.90
+2025-05-03,Transport,Monthly transport pass,30.00
+2025-05-05,Education,Books & supplies,39.90
+2025-05-08,Travel,BlaBlaCar,41.00
+2025-05-11,Groceries,Carrefour,47.10
+2025-05-15,Subscriptions,Streaming bundle,12.99
+2025-05-17,Entertainment,Cinema ticket,10.20
+2025-05-20,Eating Out,Campus cafeteria,8.80
+2025-05-24,Transport,Single ticket,2.10
+2025-06-01,Rent,Student studio rent,650.80
+2025-06-01,Internet,Fiber plan,25.10
+2025-06-01,Mobile,Phone plan,19.90
+2025-06-03,Transport,Monthly transport pass,30.00
+2025-06-05,Groceries,Lidl,31.90
+2025-06-08,Groceries,Carrefour,50.40
+2025-06-12,Eating Out,Sandwich shop,7.50
+2025-06-15,Subscriptions,Streaming bundle,12.99
+2025-06-19,Coffee & Snacks,Café latte,3.40
+2025-06-23,Entertainment,Indie game,12.00
+2025-07-01,Rent,Student studio rent,651.20
+2025-07-01,Internet,Fiber plan,24.90
+2025-07-01,Mobile,Phone plan,19.90
+2025-07-03,Transport,Monthly transport pass,30.00
+2025-07-05,Groceries,Intermarché,43.30
+2025-07-08,Groceries,Carrefour,52.10
+2025-07-12,Eating Out,Kebab,9.50
+2025-07-15,Subscriptions,Streaming bundle,12.99
+2025-07-18,Entertainment,Cinema ticket,9.50
+2025-07-22,Coffee & Snacks,Espresso,2.20
+2025-08-01,Rent,Student studio rent,652.10
+2025-08-01,Internet,Fiber plan,25.00
+2025-08-01,Mobile,Phone plan,20.00
+2025-08-03,Transport,Monthly transport pass,30.00
+2025-08-06,Groceries,Carrefour,49.90
+2025-08-09,Groceries,Lidl,33.10
+2025-08-12,Eating Out,Pizza slice,6.80
+2025-08-15,Subscriptions,Streaming bundle,12.99
+2025-08-19,Entertainment,Student concert,14.50
+2025-08-23,Coffee & Snacks,Croissant,2.10
+2025-09-01,Rent,Student studio rent,653.00
+2025-09-01,Internet,Fiber plan,25.10
+2025-09-01,Mobile,Phone plan,20.00
+2025-09-03,Transport,Monthly transport pass,30.00
+2025-09-05,Education,Books & supplies,44.00
+2025-09-10,Education,University tuition (semester),350.00
+2025-09-12,Groceries,Carrefour,50.30
+2025-09-15,Subscriptions,Streaming bundle,12.99
+2025-09-18,Eating Out,Campus cafeteria,8.90
+2025-09-22,Entertainment,Indie game,11.80
+2025-10-01,Rent,Student studio rent,653.20
+2025-10-01,Internet,Fiber plan,25.00
+2025-10-01,Mobile,Phone plan,19.90
+2025-10-03,Transport,Monthly transport pass,30.00
+2025-10-05,Groceries,Lidl,32.40
+2025-10-08,Groceries,Carrefour,51.30
+2025-10-12,Eating Out,Sandwich shop,7.90
+2025-10-15,Subscriptions,Streaming bundle,12.99
+2025-10-18,Entertainment,Cinema ticket,9.90
+2025-10-21,Coffee & Snacks,Café latte,3.10
+2025-10-24,Transport,Uber share,8.50
